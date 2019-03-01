@@ -1,0 +1,12 @@
+/*.tgitconfig
+*.classpath
+target
+.settings
+/.idea
+.idea
+*.iml
+.project
+.myeclipse
+.mymetadata
+/.idea/workspace.xml
+/logs
